@@ -1,15 +1,19 @@
 body {
   background-color: #eee;
   display: flex;
-  font-family: 'Muli', sans-serif;
+  justify-content: center;
+  font-family: "Muli", sans-serif;
+  background-color: black;
 }
 
-.contract, .existing-contracts {
+.contract,
+.existing-contracts {
   margin: 20px;
   display: inline-block;
   padding: 40px;
   border: 1px solid #ddd;
-  background-color: #fff;
+  background-color: #766f6f;
+  border-radius: 15px;
 }
 
 h1 {
@@ -42,6 +46,7 @@ input[type="text"] {
   font-size: 14px;
   letter-spacing: 1px;
   cursor: pointer;
+  border-radius: 15px;
 }
 
 .existing-contract ul {

@@ -24,3 +24,12 @@ Compile the contracts using `npx hardhat compile`. The artifacts will be placed 
 
 To run the front-end application run `npm start` from the `/app` directory. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+[Full instructions here](https://university.alchemy.com/course/ethereum/md/63f8fc3b7163970002576467)
+
+## Challenges
+
+[] Run the dApp on a Live Testnet
+[√] Style
+[] Wei to Ether Conversion
+[] Persistence (Create a server to store the contracts)
+[] Add to contract
